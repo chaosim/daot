@@ -10,7 +10,13 @@
 公式一：程序=算法+数据结构;
 公式二：程序=名字+结构.
 
-= What is necessary is to rectify names。 =
-
-Confucious said: What is necessary is to rectify names。
+What is necessary is to rectify names。  (Confucian Analects - Chapter 13)
+Confucious said: 
+"What is necessary is to rectify names。"
 "If names be not correct, language is not in accordance with the truth of things. If language be not in accordance with the truth of things, affairs cannot be carried on to success."
+
+We should pay more attention to all kinds of names in code: the names of functions, classes, constants, variables, macros, etc. Give them meaningful names. To a greater extent, we should use right operators, symbols, marks, even well formed syntax. Without correct names, the code would be not in order, and would be misunderstood, and the design may be suspicious. If so, more errors may exist in the code, and the project may fail at last.
+With good names, we can save many comments. on contrast, the comments are there just because naming things too bad.
+
+Formula 1. program = algorithm + data structure.
+Formula 2. program = name + structure.
