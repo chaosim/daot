@@ -1,9 +1,9 @@
-#summary my blog.
+#summary my blogs.
 
-= My blog list=
-
-http://simeonchaos.blogspot.com.nyud.net:8090/
+= The list of my blogs =
 
 http://simeonchaos.blogspot.com
+
+http://simeonchaos.blogspot.com.nyud.net:8090/
 
 http://blog.sina.com.cn/chaosim
