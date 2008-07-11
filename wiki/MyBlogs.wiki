@@ -3,5 +3,7 @@
 = My blog list=
 
 http://simeonchaos.blogspot.com.nyud.net:8090/
+
 http://simeonchaos.blogspot.com
+
 http://blog.sina.com.cn/chaosim
