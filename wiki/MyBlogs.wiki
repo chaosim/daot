@@ -1,4 +1,4 @@
-#summary my blogs.
+#summary my blogs
 
 = The list of my blogs =
 
