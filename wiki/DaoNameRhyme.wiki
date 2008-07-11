@@ -3,6 +3,10 @@
 = 道名诀 =
 
 道可道非常道名可名非常名。
+The dao that can be told is not the eternal dao;
+The Name that can name things is not the eternal name.
+
+_dao: way, truth, rule._
 
 道皆有名，名皆有道；道道名名，名名道道；名道道名；道名名道。
 
@@ -19,4 +23,5 @@
  * 道以名道：道法可以用来命名道法。名以道名：名字可以用来解说名字。
  * 名以名名：名字可以用来命名名字。道以道道：道法可以用来解说道法。
  * 名以名道：名字可以用来命名道法。道以道名：道法可以用来解说名字。
+
  
