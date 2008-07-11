@@ -1,7 +1,7 @@
 #summary 我的博客
 
 = 我的博客列表 =
-= The list of my blogs =
+The list of my blogs
 
 http://simeonchaos.blogspot.com
 
