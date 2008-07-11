@@ -1,6 +1,7 @@
 #summary 道名诀
 
 = 道名诀 =
+Rhyme of dao and name
 
 道可道非常道名可名非常名。
 
