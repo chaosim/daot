@@ -5,12 +5,14 @@
 Big refactor of the code: remove many stuffs: such as ascenderRuleses, descenderRuleses, firstSegments, lastSegments, beforeSegments, followSegments, MinimizeSegments, fitFollowBefore etc. All tests which is neccessary to parse passed, including precedence tests. The program runs faster now.
 
 
-= just next step =
+=== just next step ===
 
   many optimazations
 
-= todo =
+=== todo ===
   abstract syntax tree
+
   error process: locate, recover, report
+
   the back end of the compiler
   
