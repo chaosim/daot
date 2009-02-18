@@ -1,4 +1,4 @@
-#What's new in 0.1.2?
+#summary What's new in 0.1.2?
 
 Simpler code and run faster
 
