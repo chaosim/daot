@@ -1,0 +1,4 @@
+#What's new in 0.1.2?
+= Simpler code and run faster =
+Many things is cut from the source, like ascenders, augmentGrammar, but the parser can run faster now( profileParse.py run in 0.99s).
+Precedency is processed and pass all tests.
