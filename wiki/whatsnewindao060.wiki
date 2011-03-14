@@ -5,7 +5,7 @@ What's New in dao 0.6.0?
 *Release date: 2010-3-14*
 
 core
------------------ 
+-----------------
 - a lisp style evaluator is implemented, which can eval expressions which is a hybrid of lisp forms and prolog terms.
 - means that dao can eval rules with logic variables.
 - function is a super concept of lambda, because function can be defined by mutilple rules with logic varialbes in caller form and rule body.
