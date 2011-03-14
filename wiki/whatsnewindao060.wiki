@@ -4,7 +4,7 @@ What's New in dao 0.6.0?
 
 *Release date: 2010-3-14*
 
-core:
+core
 ----------------- 
 - a lisp style evaluator is implemented, which can eval expressions which is a hybrid of lisp forms and prolog terms.
 - means that dao can eval rules with logic variables.
