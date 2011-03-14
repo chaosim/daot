@@ -1,7 +1,7 @@
 #summary What's new in dao 0.6.0?
 #labels Phase-Implementation
 
-*Release date: 2010-3-14*
+*Release date: 2011-3-14*
 
 core
 -----------------
