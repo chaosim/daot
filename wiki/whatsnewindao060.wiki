@@ -1,0 +1,32 @@
+#labels Phase-Implementation
++++++++++++++++++++++++++++++++++
+Dao News (What' new in dao?)
++++++++++++++++++++++++++++++++++
+
+(This file is conform to ReST.)
+
+What's New in dao 0.6.0?
+===========================
+
+*Release date: 2010-3-14*
+
+core:
+----------------- 
+- a lisp style evaluator is implemented, which can eval expressions which is a hybrid of lisp forms and prolog terms.
+- means that dao can eval rules with logic variables.
+- function is a super concept of lambda, because function can be defined by mutilple rules with logic varialbes in caller form and rule body.
+- macro is similar to function except that macro is called with its arguments which are not evaluated beforhand. 
+- the evaluator and parser is integrated. so you can use the evaluator as a parser and includes forms like (eval parsedResult) in the parse rules. 
+- can parse and eval lisp sexpression.
+- implemented by double continuation include success cont(scont) and fail cont(fcont), borrowed and modified heavily from pypy prolog
+- the evaluator loop is like lisp's metacirlar eval method. 
+
+builtins
+-----------------
+- prolog builtins:
+  - logic control, unify, type, metacall, findall, format, atom, term, arithpred
+- for parsing
+  - parser, terminal(char, number, letter, ...), matchterm(optional, any, some, times, seplist, ...)
+- arithmetic operation
+- callcc
+- module  
