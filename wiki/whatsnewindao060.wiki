@@ -1,4 +1,4 @@
-#summary What's New in dao 0.6.0?
+#summary What's new in dao 0.6.0?
 #labels Phase-Implementation
 
 What's New in dao 0.6.0?
