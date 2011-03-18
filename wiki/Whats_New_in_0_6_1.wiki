@@ -1,0 +1,18 @@
+#summary What's new in dao 0.6.1?
+#labels Phase-Design
+ Grand unified theory in programming language is  realized:
+ Code is unified with data;
+ grammar is unified with program;
+ logic is unified with function;
+ compiling is unified with running. 
+
+*Release date: 
+
+* add some absent builtins: repeat(control.py), throw, catch(in exception.py), standard compare(in unify.py, no standard_cmp is coded, so they is commented).
+* macro which return macro can implement so called parameterized rules. see TestParameterize in builtins\tests\testparser.py .
+* tests about dynamic grammar 
+* modify interface to parse. don't use class Streamer,  only maintain a member called stream in evaluator. don't  give any assumption on the content of the stream. builtins in matchterm.py have no demand on the interface of stream.
+* Stream and Line Stream are comptible with terminal.py. Other terminals can be write based on the interface of class Stream in builtins\parser.py. Other
+  terminals aware of line can be write based on the class LineStream in builins\lineparserpy.
+* If needed, other streams and terminals can be added.
+* some tests(dao\tests\testsexpression\Test_eval_while_parsing) is added to demo the power of the dynamics of the parsing.
