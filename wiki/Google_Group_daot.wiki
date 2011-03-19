@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+#labels Phase-Implementation
+
+I've created Google Group, daot.
+
+Here are the essentials:
+
+* Group name: daot
+* Group home page: http://groups.google.com/group/daot
+* Group email address daot@googlegroups.com
