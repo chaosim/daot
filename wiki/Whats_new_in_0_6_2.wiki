@@ -1,0 +1,8 @@
+#summary What's new in dao 0.6.2?
+#labels Phase-Implementation
+ 
+*Release date:  2011-4-11
+
+* environment(env), substition(subst) and trail play together(which was called heap before).
+* module was reimplemented by ModuleEnvironment.
+* new builtin: setvalue, catch, throw in lisp style, old catch and throw become try, raise. block and return-from, unwind-protect.
