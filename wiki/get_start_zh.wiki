@@ -5,15 +5,15 @@
 
 看到本文，说明你很可能已经下载了dao语言。如果没有，你可以用以下方法从pypi下载。
 
-  # 你可以进入python的pypi，找到存放daot的位置，下载daot的压缩包，然后将下载的压缩包解压到一个单独的文件夹，进入该文件夹，在系统终端输入如下shell命令
+  * 你可以进入python的pypi，找到存放daot的位置，下载daot的压缩包，然后将下载的压缩包解压到一个单独的文件夹，进入该文件夹，在系统终端输入如下shell命令
 
   python setup.py install
 
-  # 使用easy_install直接连网安装，在系统终端输入如下shell命令
+  * 使用easy_install直接连网安装，在系统终端输入如下shell命令
 
   easy_install dao
 
-  # 使用pip直接连网安装，在系统终端输入如下shell命令
+  * 使用pip直接连网安装，在系统终端输入如下shell命令
 
   pip install dao
 
