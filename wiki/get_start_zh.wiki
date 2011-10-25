@@ -1,5 +1,7 @@
+#summary Dao系统及Dinpy语言起步
 #labels Phase-Design
-=起步=
+
+=Dao系统及Dinpy语言起步=
 
 ==下载、解压和安装==
 
