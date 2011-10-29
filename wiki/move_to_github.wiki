@@ -6,4 +6,5 @@
 The repository has been moved to github(https://github.com/chaosim/dao). 
 
 The download files are on pypi(http://pypi.python.org/pypi/daot).
+
 The document is on pypi(http://packages.python.org/daot).
