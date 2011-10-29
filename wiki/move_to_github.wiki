@@ -3,7 +3,7 @@
 
 = Notice =
 
-The repository have moved to github(https://github.com/chaosim). 
+The repository have moved to github(https://github.com/chaosim/dao). 
 
 The download files is on pypi(http://pypi.python.org/pypi/daot).
 
