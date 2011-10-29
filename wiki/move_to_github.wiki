@@ -1,0 +1,10 @@
+#summary Move to github
+#labels Phase-Requirements
+
+= Notice =
+
+The repository have moved to github. 
+
+The download files is on http://pypi.python.org/pypi/daot.
+
+The document is on http://packages.python.org/daot.
